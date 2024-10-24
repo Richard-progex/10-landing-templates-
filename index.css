@@ -1,0 +1,90 @@
+body{
+    color: white;
+    font-family: sans-serif;
+}
+
+.herosec{
+    background-color: rgba(90, 77, 248, 1);
+    height: 550px;
+    padding: 30px;
+}
+.herosec .one .img1{
+    float: right;
+    width: 400px;
+    height: 580px;
+    position: relative;
+    left: 30px;
+}
+.herosec .one .img2{
+    float: right;
+    width: 400px;
+    height: 490px;
+    position: relative;
+    left: 290px;
+    top: 90px;
+}
+.herosec .one .img3{
+    float: right;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 587px;
+    top: 180px;
+}
+.herosec .one .img4{
+    float: right;
+    width: 400px;
+    height: 315px;
+    position: relative;
+    left: 495px;
+    top: -135px;
+}
+.herosec .one .img5{
+    float: right;
+    width: 400px;
+    height: 175px;
+    position: relative;
+    right: 390px;
+    top: -310px;
+}
+
+.herosec .two .img-one{
+    width: 200px;
+    position: relative;
+    top: -640px;
+}
+.herosec .two h1{
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+    position: relative;
+    top: -730px;
+    left: 30px;
+}
+.herosec .two .li{
+    position: relative;
+    top: -730px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.herosec .two .li ul{
+    list-style-type: none;
+}
+.herosec .two .li img{
+    width: 15px;
+    position: relative;
+    right: 10px;
+}
+
+.herosec .two .img-two{
+    position: relative;
+    top: -730px;
+    left: 30px;
+    width: 180px;
+}
+.herosec .two .img-three{
+    width: 150px;
+    position: relative;
+    top: -632px;
+    right: 215px;
+}
